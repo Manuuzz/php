@@ -4,18 +4,23 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Exercice 1</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href=''>  
+    <link rel='stylesheet' type='text/css' media='screen' href='exo1.css'>  
 </head>
 <body>   
     <?php 
         $NombreAleatoire = rand(0,100);   
-        if (){
-            
-        } 
     ?>
-    souhou
 
-
+    <?php
+    if($NombreAleatoire % 2 == 1){
+        echo"<p class=rouge>$NombreAleatoire est impair</p>";
+    }
+    else{
+        echo"<p class=bleu>$NombreAleatoire est pair</p>";
+    }
+    ?>
+    
+  
 
 
 </body>
