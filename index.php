@@ -18,6 +18,7 @@
         <p><a HREF="ex5.php">Exo5.php</a></p>
         <p><a HREF="ex6.php">Exo6.php</a></p>
         <p><a HREF="ex7.php">Exo7.php</a></p>
+        <p><a HREF="exfinal.php">ExoFinal.php</a></p>
         <p><a HREF="http://192.168.64.116/">Retour</a></p>
         
 
