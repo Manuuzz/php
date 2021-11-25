@@ -19,7 +19,7 @@
         echo"<p class=bleu>$NombreAleatoire est pair</p>";
     }
     ?>
-    
+    <p><a HREF="http://192.168.64.116/Tourniquet/">Acceuil</a></p>
   
 
 
