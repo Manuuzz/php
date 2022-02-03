@@ -19,7 +19,10 @@
         <p><a HREF="ex6.php">Exo6.php</a></p>
         <p><a HREF="ex7.php">Exo7.php</a></p>
         <p><a HREF="exfinal.php">ExoFinal.php</a></p>
-        <p><a HREF="http://192.168.64.116/">Retour</a></p>
+        <p>BDD</p>
+        <p><a HREF="BDD\TD4\exo1.php">TD4 Exo2</a></p>
+        <p><a HREF="phptest.php">Tets</a></p>
+        <p><a HREF="http://192.168.65.4/">Retour</a></p>
         
 
 

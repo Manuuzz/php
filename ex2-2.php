@@ -16,6 +16,6 @@
 
         echo "<p> Nom : $array[nom]</p> <p>Prénom : $array[prénom]</p>    Mdp : $array[mdp]";
     ?>
-        <p><a href="/Tourniquet/">Accueil</a></p>
+        <p><a href="/Site/">Accueil</a></p>
 </body>
 </html>
